@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="QATWeb_Admin_App">
+        <wb-resource deploy-path="/" source-path="/" tag="defaultRootSource"/>
+        <dependent-module archiveName="Login.war" deploy-path="/" handle="module:/resource/Login/Login">
+            <dependent-object>WebModule_1387743985995</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="Jun38.war" deploy-path="/" handle="module:/resource/Jun38/Jun38">
+            <dependent-object>WebModule_1429573643574</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="Aug68.war" deploy-path="/" handle="module:/resource/Aug68/Aug68">
+            <dependent-object>WebModule_1437966648867</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="Sep74.war" deploy-path="/" handle="module:/resource/Sep74/Sep74">
+            <dependent-object>WebModule_1437967479450</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
